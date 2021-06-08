@@ -1,5 +1,5 @@
 # Customer Segmentation
-
+![](images/retentionRates.png)
 
 
 ## What's in the project?
